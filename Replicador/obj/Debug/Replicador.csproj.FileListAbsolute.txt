@@ -1,0 +1,9 @@
+C:\Users\elmat\OneDrive\Documentos\ProgramacionIV\Replicador\Replicador\obj\Debug\Replicador.csprojAssemblyReference.cache
+C:\Users\elmat\OneDrive\Documentos\ProgramacionIV\Replicador\Replicador\obj\Debug\Replicador.Form1.resources
+C:\Users\elmat\OneDrive\Documentos\ProgramacionIV\Replicador\Replicador\obj\Debug\Replicador.Properties.Resources.resources
+C:\Users\elmat\OneDrive\Documentos\ProgramacionIV\Replicador\Replicador\obj\Debug\Replicador.csproj.GenerateResource.cache
+C:\Users\elmat\OneDrive\Documentos\ProgramacionIV\Replicador\Replicador\bin\Debug\Replicador.exe.config
+C:\Users\elmat\OneDrive\Documentos\ProgramacionIV\Replicador\Replicador\bin\Debug\Replicador.exe
+C:\Users\elmat\OneDrive\Documentos\ProgramacionIV\Replicador\Replicador\bin\Debug\Replicador.pdb
+C:\Users\elmat\OneDrive\Documentos\ProgramacionIV\Replicador\Replicador\obj\Debug\Replicador.exe
+C:\Users\elmat\OneDrive\Documentos\ProgramacionIV\Replicador\Replicador\obj\Debug\Replicador.pdb
